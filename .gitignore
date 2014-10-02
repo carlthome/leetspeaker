@@ -56,3 +56,5 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.exe
+*.bak
